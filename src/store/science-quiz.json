@@ -1,0 +1,103 @@
+[
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "O2", "H2", "HO2"],
+    "answer": "H2O"
+  },
+  {
+    "question": "What planet is known as the Red Planet?",
+    "options": ["Mars", "Jupiter", "Saturn", "Venus"],
+    "answer": "Mars"
+  },
+  {
+    "question": "What gas do plants absorb from the atmosphere?",
+    "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "What is the speed of light?",
+    "options": ["299,792 km/s", "150,000 km/s", "299,792 m/s", "300,000 km/s"],
+    "answer": "299,792 km/s"
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Diamond", "Gold", "Iron", "Platinum"],
+    "answer": "Diamond"
+  },
+  {
+    "question": "What is the most abundant gas in the Earth's atmosphere?",
+    "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Argon"],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "What is the boiling point of water at sea level?",
+    "options": ["100°C", "90°C", "80°C", "110°C"],
+    "answer": "100°C"
+  },
+  {
+    "question": "What part of the cell contains the genetic material?",
+    "options": ["Nucleus", "Cytoplasm", "Cell membrane", "Mitochondria"],
+    "answer": "Nucleus"
+  },
+  {
+    "question": "What is the main gas found in the air we breathe?",
+    "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Hydrogen"],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "What is the chemical formula for table salt?",
+    "options": ["NaCl", "KCl", "NaHCO3", "CaCO3"],
+    "answer": "NaCl"
+  },
+  {
+    "question": "What is the center of an atom called?",
+    "options": ["Nucleus", "Proton", "Electron", "Neutron"],
+    "answer": "Nucleus"
+  },
+  {
+    "question": "What organ is primarily responsible for filtering blood?",
+    "options": ["Kidney", "Liver", "Heart", "Lungs"],
+    "answer": "Kidney"
+  },
+  {
+    "question": "What is the process by which plants make food?",
+    "options": ["Photosynthesis", "Respiration", "Transpiration", "Fermentation"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "question": "What planet is closest to the Sun?",
+    "options": ["Mercury", "Venus", "Earth", "Mars"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the smallest unit of life?",
+    "options": ["Cell", "Atom", "Molecule", "Organ"],
+    "answer": "Cell"
+  },
+  {
+    "question": "What force keeps us grounded on Earth?",
+    "options": ["Gravity", "Magnetism", "Electromagnetism", "Friction"],
+    "answer": "Gravity"
+  },
+  {
+    "question": "What is the most common element in the universe?",
+    "options": ["Hydrogen", "Helium", "Oxygen", "Carbon"],
+    "answer": "Hydrogen"
+  },
+  {
+    "question": "What is the main component of the sun?",
+    "options": ["Hydrogen", "Oxygen", "Silicon", "Helium"],
+    "answer": "Helium"
+  },
+  {
+    "question": "What scientist is known for the laws of motion?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Marie Curie"],
+    "answer": "Isaac Newton"
+  }
+]
+
