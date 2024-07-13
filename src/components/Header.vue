@@ -1,7 +1,7 @@
 <template>
   <div class="flex justify-between items-center text-dark">
     <h2 class="text-2xl font-bold  font-montserrat">QuizMaster</h2>
-    <ul class="flex gap-8 tracking-wider">
+    <ul class="flex gap-8 tracking-wider font-medium">
       <li><router-link to="/">Home</router-link></li>
       <li><router-link to="/preparation">Preparation</router-link></li>
       <li><router-link to="/test">Test</router-link></li>

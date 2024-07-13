@@ -1,17 +1,17 @@
 [
   {
     "question": "What is the chemical symbol for water?",
-    "options": ["H2O", "O2", "H2", "HO2"],
+    "options": [ "O2", "H2","H2O", "HO2"],
     "answer": "H2O"
   },
   {
     "question": "What planet is known as the Red Planet?",
-    "options": ["Mars", "Jupiter", "Saturn", "Venus"],
+    "options": [ "Jupiter", "Saturn","Mars", "Venus"],
     "answer": "Mars"
   },
   {
     "question": "What gas do plants absorb from the atmosphere?",
-    "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "options": [ "Oxygen", "Carbon Dioxide","Nitrogen", "Hydrogen"],
     "answer": "Carbon Dioxide"
   },
   {
@@ -21,12 +21,12 @@
   },
   {
     "question": "Who developed the theory of relativity?",
-    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+    "options": [ "Isaac Newton", "Galileo Galilei","Albert Einstein", "Nikola Tesla"],
     "answer": "Albert Einstein"
   },
   {
     "question": "What is the hardest natural substance on Earth?",
-    "options": ["Diamond", "Gold", "Iron", "Platinum"],
+    "options": ["Gold", "Iron", "Platinum","Diamond"],
     "answer": "Diamond"
   },
   {
@@ -36,22 +36,22 @@
   },
   {
     "question": "What is the boiling point of water at sea level?",
-    "options": ["100°C", "90°C", "80°C", "110°C"],
+    "options": ["90°C","100°C", "80°C", "110°C"],
     "answer": "100°C"
   },
   {
     "question": "What part of the cell contains the genetic material?",
-    "options": ["Nucleus", "Cytoplasm", "Cell membrane", "Mitochondria"],
+    "options": ["Cytoplasm", "Cell membrane","Nucleus", "Mitochondria"],
     "answer": "Nucleus"
   },
   {
     "question": "What is the main gas found in the air we breathe?",
-    "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Hydrogen"],
+    "options": ["Oxygen", "Carbon Dioxide", "Hydrogen","Nitrogen"],
     "answer": "Nitrogen"
   },
   {
     "question": "What is the chemical formula for table salt?",
-    "options": ["NaCl", "KCl", "NaHCO3", "CaCO3"],
+    "options": ["KCl","NaCl", "NaHCO3", "CaCO3"],
     "answer": "NaCl"
   },
   {
@@ -61,12 +61,12 @@
   },
   {
     "question": "What organ is primarily responsible for filtering blood?",
-    "options": ["Kidney", "Liver", "Heart", "Lungs"],
+    "options": ["Lungs","Kidney", "Liver", "Heart"],
     "answer": "Kidney"
   },
   {
     "question": "What is the process by which plants make food?",
-    "options": ["Photosynthesis", "Respiration", "Transpiration", "Fermentation"],
+    "options": ["Respiration", "Transpiration","Photosynthesis",  "Fermentation"],
     "answer": "Photosynthesis"
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "question": "What is the smallest unit of life?",
-    "options": ["Cell", "Atom", "Molecule", "Organ"],
+    "options": ["Atom","Cell", "Molecule", "Organ"],
     "answer": "Cell"
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "question": "What is the most common element in the universe?",
-    "options": ["Hydrogen", "Helium", "Oxygen", "Carbon"],
+    "options": ["Helium","Hydrogen", "Oxygen", "Carbon"],
     "answer": "Hydrogen"
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "question": "What scientist is known for the laws of motion?",
-    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Marie Curie"],
+    "options": ["Albert Einstein","Isaac Newton", "Galileo Galilei", "Marie Curie"],
     "answer": "Isaac Newton"
   }
 ]
